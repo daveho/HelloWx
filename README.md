@@ -1,6 +1,6 @@
 # Compile wxWidgets "Hello World" for Windows using Cygwin
 
-Cygwin includes a cross compiler (i686-w64-mingw32-g++) capable of producing native Windows binaries.  It also includes a complete precompiled version of wxWidgets 3.0.  This makes Cygwin, in my opinion, *by far* the best way to build wxWidgets programs for Windows.  Here's why: if you want to use MinGW (possibly with MSYS), you'll need to compile wxWidgets from source.  Trust me when I tell you that this is a time-consuming and frustrating experience.  Using Cygwin, you could be buildin a native Windows GUI program in the next few minutes.
+Cygwin includes a cross compiler (i686-w64-mingw32-g++) capable of producing native Windows binaries.  It also includes a complete precompiled version of wxWidgets 3.0.  This makes Cygwin, in my opinion, *by far* the best way to build wxWidgets programs for Windows.  Here's why: if you want to use MinGW (possibly with MSYS), you'll need to compile wxWidgets from source.  Trust me when I tell you that this is a time-consuming and frustrating experience.  Using Cygwin, you could be building a native Windows GUI program in the next few minutes.
 
 Anyway, just make sure that the following Cygwin packages are installed:
 
